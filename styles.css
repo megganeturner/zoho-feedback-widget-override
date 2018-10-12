@@ -1,26 +1,58 @@
 @charset "utf-8";
+
+/* FONT-FACE IMPORTS
+================================================================== */
+
+/*
+ * Legal Disclaimer
+ *
+ * These Fonts are licensed only for use on these domains and their subdomains:
+ *
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2017
+ */
+
+
+/* Complete */
 @font-face {
-  font-family: ProximaNovaRegular;
-  src: url('../fonts/ProximaNova-Reg-webfont.eaaf761f3665045d37e8.eot');
-  src: url('../fonts/ProximaNova-Reg-webfont.eaaf761f3665045d37e8.eot#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Reg-webfont.d6e2bf3f97fd098b9ab0.woff') format('woff'), url('../fonts/ProximaNova-Reg-webfont.6c2a5f1081643c105208.ttf') format('truetype'), url('../fonts/ProximaNova-Reg-webfont.eaa809713495a96fcf59.svg#ProximaNovaRgRegular') format('svg');
-  font-weight: 400;
-  font-style: normal
+  font-family: "Brown-Pro";
+  src: url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-light.eot");
+  src:
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-light.eot?#iefix") format("embedded-opentype"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-light.woff2") format("woff2"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-light.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
 }
 
 @font-face {
-  font-family: ProximaNovaLight;
-  src: url('../fonts/ProximaNova-Light-webfont.ff9c4a8dd051431439b9.eot');
-  src: url('../fonts/ProximaNova-Light-webfont.ff9c4a8dd051431439b9.eot#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Light-webfont.04d5b9edb4757db14c57.woff') format('woff'), url('../fonts/ProximaNova-Light-webfont.86c7892e781e5bfda2f2.ttf') format('truetype'), url('../fonts/ProximaNova-Light-webfont.da3d0fb7db52f8273550.svg#ProximaNovaLtLight') format('svg');
-  font-weight: 400;
-  font-style: normal
+  font-family: "Brown-Pro";
+  src: url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-regular.eot");
+  src:
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-regular.eot?#iefix") format("embedded-opentype"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-regular.woff2") format("woff2"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-regular.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
 }
 
 @font-face {
-  font-family: ProximaNovaLtSemibold;
-  src: url('../fonts/ProximaNova-Sbold-webfont.d89e37dcc46df5f4aa62.eot');
-  src: url('../fonts/ProximaNova-Sbold-webfont.d89e37dcc46df5f4aa62.eot#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Sbold-webfont.e325aaeb392e1215ea4c.woff') format('woff'), url('../fonts/ProximaNova-Sbold-webfont.d7a808a31f8cab5230ba.ttf') format('truetype'), url('../fonts/ProximaNova-Sbold-webfont.63db86844cd07b17c934.svg#ProximaNovaLtSemibold') format('svg');
-  font-weight: 400;
-  font-style: normal
+  font-family: "Brown-Pro";
+  src: url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-bold.eot");
+  src:
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-bold.eot?#iefix") format("embedded-opentype"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-bold.woff2") format("woff2"),
+    url("https://artwork.jaxsta.com/assets/fonts/lineto-brown-pro-bold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: block;
 }
 
 a {
@@ -28,7 +60,7 @@ a {
 }
 
 #advwebForm {
-  font-family: 'ProximaNovaRegular', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
 }
 
 .feedbacklab {
@@ -145,7 +177,7 @@ a {
 }
 
 .popup, #fbpopup, #zsfbform, #zsfbform input, #zsfbform textarea, #zsfbform a, .feedtxtarea, .fbfpoptitle, #zsfeedbackFrame, #popout {
-  font-family: 'ProximaNovaRegular', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
 }
 
 .popup, #fbpopup {
@@ -275,7 +307,7 @@ a {
 }
 
 .feedbselefield, .fbtxtnf, .feedbtxtfield, .fbfcaptchaDivinput, .fbfcaptchaDivimg {
-  font-family: 'ProximaNovaRegular', Arial, Helvetica, sans-serif;
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif;
   border: 1px solid #f5f5f5 !important;
   background-color: #fff !important;
   border-radius: 3px !important
@@ -1517,7 +1549,7 @@ input#liveDeskStartButton {
 
 #descPlaceHolder, .zsfbfplacehtxt, #feedbackSubject, #feedbackDesc {
   font-size: 15px;
-  font-family: 'ProximaNovaRegular', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
 }
 
 .zsfbfplacehtxt {
@@ -2303,7 +2335,7 @@ input#liveDeskStartButton {
   padding: 5px 15px;
   cursor: pointer;
   border-radius: 3px;
-  font: 13px 'ProximaNovaRegular', Arial, Helvetica, sans-serif
+  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif
 }
 
 #feedbackSubmitLoading {
@@ -2443,7 +2475,7 @@ input#liveDeskStartButton {
 }
 
 .empty-txt {
-  font: 16px 'ProximaNovaRegular', Arial, Helvetica, sans-serif;
+  font: 16px 'Brown-Pro', Arial, Helvetica, sans-serif;
   color: #555
 }
 
@@ -2599,7 +2631,7 @@ a:hover {
   padding: 5px 15px;
   cursor: pointer;
   border-radius: 3px;
-  font: 13px 'ProximaNovaRegular', Arial, Helvetica, sans-serif
+  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif
 }
 
 .zs-imgwidth {
@@ -2670,7 +2702,7 @@ a:hover {
   background: #00a3fe;
   border: 1px solid #00a3fe;
   color: #FFF;
-  font: 13px 'ProximaNovaRegular', Arial, Helvetica, sans-serif;
+  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif;
   padding: 6px 16px;
   cursor: pointer;
   border-radius: 2px;
