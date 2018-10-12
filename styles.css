@@ -460,7 +460,7 @@ a {
 }
 
 .zscameraicn, .zsnewattachicn, .zspblogoicn, .zsfbcloseicn, .zsfbminimize, .zsfbssok, .zsfbrefresh, #suggestionsDiv #searchBox, .zsfbfscreencls i, .zsfbcaptcha, .fbchatclose, .zs-attenicn {
-  background-image: url('../images/zs-mpro.b6c9cf2347c62390fdcb.png')
+  background-image: url('https://css.zohostatic.com/support/app/images/zs-mpro.b6c9cf2347c62390fdcb.png')
 }
 
 .fbchatclose {
@@ -1709,7 +1709,7 @@ input#liveDeskStartButton {
   position: absolute;
   width: 15px;
   height: 20px;
-  background: transparent url('../images/qcrightarrow.a9cf434b46ddc6e869f9.gif') no-repeat;
+  background: transparent url('https://css.zohostatic.com/support/app/images/qcrightarrow.a9cf434b46ddc6e869f9.gif') no-repeat;
   top: 34px;
   _height: 16px\9
 }
@@ -2279,7 +2279,7 @@ input#liveDeskStartButton {
   height: 42px;
   width: 93%;
   padding: 5px 0 0 45px;
-  background-image: url('../images/CP_Sprite.8bff0953237f49aeaebd.png') !important;
+  background-image: url('https://css.zohostatic.com/support/app/images/CP_Sprite.8bff0953237f49aeaebd.png') !important;
   border: 0;
   margin: -13px 0 0 -7px;
   background-color: #eee;
