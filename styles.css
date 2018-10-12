@@ -1025,9 +1025,24 @@ a {
 
 #advwebForm {
   background-color: transparent;
-  width: 950px;
+  min-width: 280px;
+  width: 50%;
+  max-width: 800px;
   height: auto;
   display: flex
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#feedbPopupSbmtBtn {
+  background-color: #1B9883;
+  border: none;
+  padding: 12px;
+}
+
+#feedbPopupSbmtBtn:hover {
+    background-color: #22C2A7;
 }
 
 .fbdisablcls a.zsdeptlist {
