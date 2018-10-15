@@ -56,11 +56,11 @@
 }
 
 a {
-  text-decoration: none
+  text-decoration: none;
 }
 
 #advwebForm {
-  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif;
 }
 
 .feedbacklab {
@@ -70,23 +70,23 @@ a {
   border-top: 0;
   text-shadow: none;
   height: 0;
-  width: 0
+  width: 0;
 }
 
 .feedbacklab:hover {
-  background-color: #333
+  background-color: #333;
 }
 
 #configureWidget .zsfbtop {
-  top: 40px !important
+  top: 40px !important;
 }
 
 #configureWidget .zsfbbottomwithchat {
-  bottom: 48px !important
+  bottom: 48px !important;
 }
 
 #configureWidget .zsfbbottom {
-  bottom: 45px !important
+  bottom: 45px !important;
 }
 
 .zsfbleft {
@@ -97,11 +97,11 @@ a {
   -moz-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   -o-transform: rotate(-90deg);
-  transform-origin: left top 0
+  transform-origin: left top 0;
 }
 
 .setupbodylayout .zsfbleft {
-  left: 305px
+  left: 305px;
 }
 
 .zsfbright {
@@ -114,30 +114,30 @@ a {
   -ms-transform: rotate(-90deg);
   -o-transform: rotate(-90deg);
   width: 0;
-  margin: 0
+  margin: 0;
 }
 
 .zsfbtop {
   left: 43%;
   top: 11px;
-  margin: 0
+  margin: 0;
 }
 
 .zsfbbottom {
   left: 43%;
   bottom: 17px;
-  margin: 10px
+  margin: 10px;
 }
 
 .setupbodylayout .zsfbbottomwithchat {
   left: 43%;
   bottom: 18px;
-  margin: 30px
+  margin: 30px;
 }
 
 .zsfbbottomwithchat {
   bottom: 0;
-  top: auto
+  top: auto;
 }
 
 .zsfbleft span, .zsfbright span, .zsfbtop span, .zsfbbottom span, .zsfbbottomwithchat span {
@@ -145,17 +145,17 @@ a {
   background-color: #777;
   color: #fff;
   white-space: nowrap;
-  box-shadow: 0 0 2px #bbb
+  box-shadow: 0 0 2px #bbb;
 }
 
 .zsfbleft span {
   padding: 8px 15px 13px;
-  display: inline-block
+  display: inline-block;
 }
 
 .zsfbright span {
   padding: 10px 15px;
-  display: inline-block
+  display: inline-block;
 }
 
 .zsfeedbackclose {
@@ -168,16 +168,16 @@ a {
   cursor: pointer;
   padding: 14px 16px 13px 18px;
   z-index: 9999 !important;
-  opacity: .4
+  opacity: .4;
 }
 
 .zsfeedbackclose:hover {
   background-color: #aaa;
-  opacity: 1
+  opacity: 1;
 }
 
 .popup, #fbpopup, #zsfbform, #zsfbform input, #zsfbform textarea, #zsfbform a, .feedtxtarea, .fbfpoptitle, #zsfeedbackFrame, #popout {
-  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif;
 }
 
 .popup, #fbpopup {
@@ -186,15 +186,15 @@ a {
   position: fixed;
   top: 40px;
   z-index: 2000;
-  display: block
+  display: block;
 }
 
 #fbpopup #feedbCmpnyNameTxtField {
-  width: 98.5%
+  width: 98.5%;
 }
 
 #fbpopup .zsfeedbklpanel {
-  height: 568px
+  height: 568px;
 }
 
 .zsfeedbkrpanel {
@@ -202,12 +202,12 @@ a {
   width: 65.235%;
   background-color: #fff;
   border-left: 1px solid #f5f5f5;
-  z-index: 9999
+  z-index: 9999;
 }
 
 #popupsetup .zsfeedbkrpanel {
   width: 65%;
-  text-align: left
+  text-align: left;
 }
 
 .zsfeedbklpanel {
@@ -217,33 +217,33 @@ a {
   padding: 0 5px 0 10px;
   overflow: hidden;
   min-height: 530px;
-  text-align: left
+  text-align: left;
 }
 
 #previewPopup.zsfbfnohc .zsfeedbkrpanel {
-  width: 100%
+  width: 100%;
 }
 
 .fbpad {
   border: 1px solid #fff;
   margin: 0 3px 0 0;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fbpadimgdiv {
   float: left;
-  width: 25px
+  width: 25px;
 }
 
 .cpsublink {
   color: #666;
   font-size: 14px;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .cplinknew {
   color: #777;
-  font-size: 11px
+  font-size: 11px;
 }
 
 .feedbtxtfield, .fbtxtnf, .fbfcaptchaDivinput {
@@ -252,49 +252,49 @@ a {
   color: #333;
   font-size: 15px;
   padding: 5px 3px 5px 5px;
-  width: 99.3%
+  width: 99.3%;
 }
 
 .zsfbfmdiv-fbf .feedbtxtfield, .zsfbfmdiv-fbf .fbtxtnf, .zsfbfmdiv-fbf .fbfcaptchaDivinput {
-  padding: 0
+  padding: 0;
 }
 
 .feedbtxtfield:focus, .fbtxtnf:focus, .fbfcaptchaDivinput:focus {
   border-radius: 3px;
   width: 99.2%;
   outline-style: none;
-  padding: 5px 3px 5px 5px
+  padding: 5px 3px 5px 5px;
 }
 
 .Fdformpreview .feedbtxtfield:focus, .Fdformpreview .fbtxtnf:focus, .Fdformpreview .fbfcaptchaDivinput:focus {
-  padding: 0 !important
+  padding: 0 !important;
 }
 
 #advwebForm .feedbtxtfield, .fbtxtnf, .fbfcaptchaDivinput, .fbtxtnf:focus, .fbfcaptchaDivinput:focus {
-  width: 100%
+  width: 100%;
 }
 
 #advwebForm .w226 {
-  width: 260px
+  width: 260px;
 }
 
 #advwebForm .fbfcaptchaDivimg {
-  width: 99.8%
+  width: 99.8%;
 }
 
 #advwebForm .popup {
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
   position: fixed;
-  left: auto
+  left: auto;
 }
 
 #popupsetupClose {
-  right: 1px !important
+  right: 1px !important;
 }
 
 #advwebForm .zsfeedbackclose {
   padding: 14px 16px 12px 18px !important;
-  height: 19px
+  height: 19px;
 }
 
 .feedbselefield {
@@ -303,18 +303,18 @@ a {
   color: #666;
   font-size: 13px;
   padding-left: 5px;
-  width: 98.7%
+  width: 98.7%;
 }
 
 .feedbselefield, .fbtxtnf, .feedbtxtfield, .fbfcaptchaDivinput, .fbfcaptchaDivimg {
   font-family: 'Brown-Pro', Arial, Helvetica, sans-serif;
   border: 1px solid #f5f5f5 !important;
   background-color: #fff !important;
-  border-radius: 3px !important
+  border-radius: 3px !important;
 }
 
 .feedbselefield:hover, .fbtxtnf:hover, .feedbtxtfield:hover, .fbfcaptchaDivinput:hover, .fbfcaptchaDivimg:hover {
-  box-shadow: none
+  box-shadow: none;
 }
 
 .feedtxtarea {
@@ -327,7 +327,7 @@ a {
   line-height: 130%;
   font-size: 15px;
   overflow-y: auto;
-  height: 155px
+  height: 155px;
 }
 
 .feedtxtarea:focus {
@@ -336,17 +336,17 @@ a {
   width: 98%;
   padding-left: 0;
   outline-style: none;
-  box-shadow: none
+  box-shadow: none;
 }
 
 .attachnewlink {
   padding: 8px 11px 8px;
   display: inline-block;
-  cursor: pointer !important
+  cursor: pointer !important;
 }
 
 .attachnewlink:hover {
-  cursor: pointer !important
+  cursor: pointer !important;
 }
 
 .muledptbtn, .zsfbbdrtop .muledptbtn:hover {
@@ -355,76 +355,76 @@ a {
   color: #fff;
   cursor: pointer;
   font-size: 14px;
-  padding: 10px 13px
+  padding: 10px 13px;
 }
 
 .muledptbtn:hover {
   background-color: #0f5491;
   border: 1px solid #0f5491;
   color: #fff !important;
-  cursor: pointer !important
+  cursor: pointer !important;
 }
 
 .zspopupcloseicn {
   position: absolute;
   top: 2px;
-  right: 2px
+  right: 2px;
 }
 
 .mt40 {
-  margin-top: 40px
+  margin-top: 40px;
 }
 
 .f20 {
-  font-size: 20px
+  font-size: 20px;
 }
 
 .fleft {
-  float: left
+  float: left;
 }
 
 .ml {
-  margin-left: 20px
+  margin-left: 20px;
 }
 
 .ml30 {
-  margin-left: 30px
+  margin-left: 30px;
 }
 
 .pl20 {
-  padding-left: 20px
+  padding-left: 20px;
 }
 
 .w226 {
-  width: 226px
+  width: 226px;
 }
 
 .pt4 {
-  padding-top: 4px
+  padding-top: 4px;
 }
 
 .ml10 {
-  margin-left: 10px
+  margin-left: 10px;
 }
 
 .pt5 {
-  padding-top: 5px
+  padding-top: 5px;
 }
 
 .pb5 {
-  padding-bottom: 5px
+  padding-bottom: 5px;
 }
 
 .mt10 {
-  margin-top: 10px
+  margin-top: 10px;
 }
 
 .link2 {
-  color: #666
+  color: #666;
 }
 
 .tcenter {
-  text-align: center
+  text-align: center;
 }
 
 .tright {
@@ -432,19 +432,19 @@ a {
 }
 
 .clboth {
-  clear: both
+  clear: both;
 }
 
 .zspblogoicn {
   background-repeat: no-repeat;
   background-position: -112px -469px;
   width: 117px;
-  height: 31px
+  height: 31px;
 }
 
 .i-tag {
   display: inline-block;
-  vertical-align: middle
+  vertical-align: middle;
 }
 
 #lean_overlay {
@@ -456,25 +456,25 @@ a {
   Z-INDEX: 2000;
   toP: 0;
   WIDTH: 100%;
-  opacity: .2
+  opacity: .2;
 }
 
 .zscameraicn, .zsnewattachicn, .zspblogoicn, .zsfbcloseicn, .zsfbminimize, .zsfbssok, .zsfbrefresh, #suggestionsDiv #searchBox, .zsfbfscreencls i, .zsfbcaptcha, .fbchatclose, .zs-attenicn {
-  background-image: url('https://css.zohostatic.com/support/app/images/zs-mpro.b6c9cf2347c62390fdcb.png')
+  background-image: url('https://css.zohostatic.com/support/app/images/zs-mpro.b6c9cf2347c62390fdcb.png');
 }
 
 .fbchatclose {
   background-position: -117px -338px;
   height: 23px;
   width: 23px;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .zsfbrefresh {
   background-position: -118px -417px;
   display: inline-block;
   height: 16px;
-  width: 16px
+  width: 16px;
 }
 
 .zsfbssok {
@@ -482,129 +482,129 @@ a {
   display: inline-block;
   height: 16px;
   width: 23px;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .zsfbminimize {
   background-position: -178px -417px;
   display: inline-block;
   height: 15px;
-  width: 15px
+  width: 15px;
 }
 
 #popupsetupMinimise:hover .zsfbminimize {
-  background-position: -64px -417px
+  background-position: -64px -417px;
 }
 
 #fbssokcancel .zsfbcloseicn {
   background-position: -44px -417px;
   display: inline-block;
   height: 15px;
-  width: 15px
+  width: 15px;
 }
 
 .zsfeedbackclose .zsfbcloseicn {
   background-position: -150px -417px;
   display: inline-block;
   height: 15px;
-  width: 15px
+  width: 15px;
 }
 
 .zsfeedbackclose:hover .zsfbcloseicn {
-  background-position: -44px -417px
+  background-position: -44px -417px;
 }
 
 .zscameraicn {
   background-position: -1px -413px;
   display: inline-block;
   height: 22px;
-  width: 18px
+  width: 18px;
 }
 
 .zsnewattachicn {
   background-position: -22px -414px;
   display: inline-block;
   height: 22px;
-  width: 18px
+  width: 18px;
 }
 
 .mt2 {
-  margin-top: 2px
+  margin-top: 2px;
 }
 
 .ml5 {
-  margin-left: 5px
+  margin-left: 5px;
 }
 
 .ml42 {
-  margin-left: 42px
+  margin-left: 42px;
 }
 
 .fbfcaptchaDiv {
   color: #555;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .fbfcaptchaDivimg {
   border-radius: 3px;
   padding: 0 4px;
   width: 99.3%;
-  height: 95px
+  height: 95px;
 }
 
 .fbfcaptchaDivimg a {
   cursor: pointer !important;
-  color: #126dc0
+  color: #126dc0;
 }
 
 #captchaImage {
   width: 200px;
-  height: 70px
+  height: 70px;
 }
 
 .noshadow {
   box-shadow: none !important;
-  border: 1px solid #e5e5e5
+  border: 1px solid #e5e5e5;
 }
 
 #popout {
-  border: 1px solid #e5e5e5
+  border: 1px solid #e5e5e5;
 }
 
 #popout .zsfeedbkrpanel {
-  box-shadow: none
+  box-shadow: none;
 }
 
 #popout .feedbtxtfield {
-  width: 98%
+  width: 98%;
 }
 
 #popout .fbtxtnf, #popout .fbfcaptchaDivinput {
-  width: 96%
+  width: 96%;
 }
 
 #popout .fbfcaptchaDivimg {
-  width: 91%
+  width: 91%;
 }
 
 #popout .feedbselefield {
-  width: 98.5%
+  width: 98.5%;
 }
 
 .popup .feedbtxtfield {
-  width: 98%
+  width: 98%;
 }
 
 .popup .fbtxtnf, .popup .fbfcaptchaDivinput {
-  width: 100%
+  width: 100%;
 }
 
 .popup .fbfcaptchaDivimg {
-  width: 90.8%
+  width: 90.8%;
 }
 
 .popup .feedbselefield {
-  width: 99.6%
+  width: 99.6%;
 }
 
 .screenshotSelOptionsDiv {
@@ -616,22 +616,22 @@ a {
   height: 200px;
   z-index: 400000;
   top: 300px;
-  left: 400px
+  left: 400px;
 }
 
 .feedbackformmdiv {
   padding: 0 20px 23px;
-  text-align: left
+  text-align: left;
 }
 
 .fbfpoptitle {
   font-size: 20px;
   padding: 13px 0 14px 20px;
-  height: 19px
+  height: 19px;
 }
 
 #popupsetup #popupTitle.fbfpoptitle {
-  margin-right: -1.5px
+  margin-right: -1.5px;
 }
 
 .zspowerbytxt {
@@ -639,7 +639,7 @@ a {
   padding: 10px 5px;
   font-size: 11px;
   text-align: center;
-  color: #999
+  color: #999;
 }
 
 .screenshotdiv {
@@ -654,7 +654,7 @@ a {
   background-color: #fff;
   padding: 15px 10px 10px 10px;
   color: #555;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 .screenshotdivinsetup {
@@ -664,31 +664,31 @@ a {
   top: -136px;
   padding: 15px 10px 10px 10px;
   color: #555;
-  z-index: 1 !important
+  z-index: 1 !important;
 }
 
 .screenshotrow {
   padding: 5px 0 5px 5px;
   margin-bottom: 5px;
-  margin: 10px 0 5px
+  margin: 10px 0 5px;
 }
 
 .screenshotrow a {
   color: #555;
-  font-size: 13px
+  font-size: 13px;
 }
 
 .screenshotrow:hover a {
-  color: #222
+  color: #222;
 }
 
 #screenshotarrow .down-sd-arrow1 {
-  border-top: 10px solid #ccc
+  border-top: 10px solid #ccc;
 }
 
 #screenshotarrow .down-sd-arrow2 {
   border-top: 10px solid #fcfcfc !important;
-  margin-top: -11px
+  margin-top: -11px;
 }
 
 .fbssselect {
@@ -698,7 +698,7 @@ a {
   box-shadow: 0 0 0 4px #fff inset;
   margin: 2px 7px 0 0;
   width: 14px;
-  height: 14px
+  height: 14px;
 }
 
 .fbssnormal {
@@ -708,11 +708,11 @@ a {
   margin: 0 7px 0 0;
   width: 14px;
   height: 14px;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fbminiposi {
-  right: 49px
+  right: 49px;
 }
 
 .fbssokcancel {
@@ -721,51 +721,51 @@ a {
   right: 0;
   top: 0;
   padding-top: 0;
-  z-index: 99999
+  z-index: 99999;
 }
 
 .zsfbok {
   padding: 15px 20px;
   background-color: #22ad92;
-  cursor: pointer !important
+  cursor: pointer !important;
 }
 
 .zsfbclose {
-  padding: 15px 20px 16px 22px
+  padding: 15px 20px 16px 22px;
 }
 
 .zsfbok:hover {
-  background-color: #19977e
+  background-color: #19977e;
 }
 
 .zsfbclose {
-  background-color: #d55644
+  background-color: #d55644;
 }
 
 .zsfbclose:hover {
-  background-color: #c34938
+  background-color: #c34938;
 }
 
 .zsfbfreshdiv {
   position: relative;
   right: 0;
-  top: -50px
+  top: -50px;
 }
 
 #screenshotarrow {
   position: absolute;
   bottom: -10px !important;
   top: auto;
-  left: 51px
+  left: 51px;
 }
 
 #supportSuggestionsListDiv, #communitySuggestionsListDiv {
   margin-bottom: 10px;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .w250 {
-  width: 250px
+  width: 250px;
 }
 
 .zsfeedbklpanel .zsfbfsearchBox {
@@ -780,7 +780,7 @@ a {
   width: 83%;
   background-position: 6px -884px;
   background-repeat: no-repeat;
-  opacity: .7
+  opacity: .7;
 }
 
 .zsfeedbklpanel .zsfbfsearchBox:focus {
@@ -788,7 +788,7 @@ a {
   border: 1px solid #fff;
   background-repeat: no-repeat;
   color: #222;
-  opacity: 1
+  opacity: 1;
 }
 
 #solutionsDiv div, #topicsDiv div {
@@ -799,7 +799,7 @@ a {
   border-bottom: 1px solid #f8f8f8 !important;
   background-color: #fff;
   padding: 11px 0 11px 10px;
-  word-wrap: normal
+  word-wrap: normal;
 }
 
 .zsfblchcsubject {
@@ -807,7 +807,7 @@ a {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 410px;
-  color: #148ad0
+  color: #148ad0;
 }
 
 .zsfbhcdescrip {
@@ -815,61 +815,61 @@ a {
   line-height: 120%;
   height: 31px;
   overflow: hidden;
-  width: 250px
+  width: 250px;
 }
 
 #advwebForm.popup .zsfbhcdescrip {
   height: auto !important;
   width: 272px !important;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 .zsfbhcdescrip a.cplinknew {
   color: #aaa;
-  font-size: 12px
+  font-size: 12px;
 }
 
 .feedbackpreviewdiv .freezeLayer {
-  display: none
+  display: none;
 }
 
 .feedbackpreviewdiv a.attachnewlink {
-  cursor: default !important
+  cursor: default !important;
 }
 
 .Fdformpreview {
   border: 1px solid #e8e8e8;
-  box-shadow: 0 0 6px #efefef
+  box-shadow: 0 0 6px #efefef;
 }
 
 .feedbackpreviewdiv #fbpopup {
   left: 19%;
   top: 40px;
-  position: absolute
+  position: absolute;
 }
 
 .zsfbfmdiv-fbf {
   margin-top: -20px;
   padding: 30px 0;
-  width: 88%
+  width: 88%;
 }
 
 .zsfbfmdiv-fbf div.Fdformpreview {
   display: table !important;
-  width: 100%
+  width: 100%;
 }
 
 .feedbackpreviewdiv .zsfeedbkrpanel, .feedbackpreviewdiv .feedbackformmdiv {
-  padding-bottom: 0
+  padding-bottom: 0;
 }
 
 .feedbackPopupsetup {
-  padding: 0 0 0 50px
+  padding: 0 0 0 50px;
 }
 
 .feedbackpreviewdiv .zsfeedbkrpanel {
-  width: 65.2%
+  width: 65.2%;
 }
 
 .feedbackPopupInDep {
@@ -877,25 +877,25 @@ a {
   padding: 60px 30px 45px 30px;
   width: 100%;
   position: relative;
-  overflow-y: auto
+  overflow-y: auto;
 }
 
 .feedbackPreviewInDep {
   left: 0 !important;
-  top: -200px !important
+  top: -200px !important;
 }
 
 .previewPopupSetup {
   position: fixed;
   left: 18% !important;
   top: 10px !important;
-  z-index: 99
+  z-index: 99;
 }
 
 .previewPopupInDep {
   position: fixed;
   left: 7% !important;
-  top: 10px !important
+  top: 10px !important;
 }
 
 .feedbackPopup_layer_dep {
@@ -906,73 +906,73 @@ a {
   max-width: 1024px;
   z-index: 100;
   padding-right: 0;
-  display: none
+  display: none;
 }
 
 .mt3 {
-  margin-top: 3px
+  margin-top: 3px;
 }
 
 .mt30 {
-  margin-top: 30px
+  margin-top: 30px;
 }
 
 .mt20 {
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .pb10 {
-  padding-bottom: 10px
+  padding-bottom: 10px;
 }
 
 .pl10 {
-  padding-left: 10px
+  padding-left: 10px;
 }
 
 .pb5 {
-  padding-bottom: 5px
+  padding-bottom: 5px;
 }
 
 .ml1 {
-  margin-left: 1px
+  margin-left: 1px;
 }
 
 .mt8 {
-  margin-top: 8px
+  margin-top: 8px;
 }
 
 .fright {
-  float: right
+  float: right;
 }
 
 .clboth {
-  clear: both
+  clear: both;
 }
 
 #zsfeedbackFrame {
   height: 600px;
-  width: 892px !important
+  width: 892px !important;
 }
 
 #popout .zsfbfsearchBox {
-  width: 92%
+  width: 92%;
 }
 
 #popout .fbpad {
-  margin: 3px 3px 0 0 !important
+  margin: 3px 3px 0 0 !important;
 }
 
 #popout body {
-  margin: 0
+  margin: 0;
 }
 
 #popout .fbminiposi {
-  right: 53px !important
+  right: 53px !important;
 }
 
 #popout .zsfeedbackclose {
   right: 9px;
-  top: 9px
+  top: 9px;
 }
 
 .down-sd-arrow1 {
@@ -980,7 +980,7 @@ a {
   width: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 10px solid #d9d9d9
+  border-top: 10px solid #d9d9d9;
 }
 
 .down-sd-arrow2 {
@@ -989,38 +989,38 @@ a {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
   border-top: 10px solid #f5f5f5;
-  margin-top: -11px
+  margin-top: -11px;
 }
 
 #popout .zsfeedbackclose {
-  padding: 15px 14px 19px 16px
+  padding: 15px 14px 19px 16px;
 }
 
 .fbfsearchbox {
   margin: 0 -6px 10px -10px;
   padding: 11px 0 1px 6px;
-  height: 35px
+  height: 35px;
 }
 
 .popup .fbfpoptitle, #zsfeedbackwidgetdiv .fbfpoptitle, #zsfeedbackFrame .fbfpoptitle {
-  height: 21px
+  height: 21px;
 }
 
 .Fdformpreview .fbfpoptitle {
-  height: 20px
+  height: 20px;
 }
 
 .zsfbfmdiv-fbf .Fdformpreview .fbfpoptitle {
-  margin-right: -1px
+  margin-right: -1px;
 }
 
 .Fdformpreview .muledptbtn {
-  cursor: default !important
+  cursor: default !important;
 }
 
 #screenshot, #attachmentName #fileName {
   color: #666 !important;
-  font-size: 13px !important
+  font-size: 13px !important;
 }
 
 #advwebForm {
@@ -1029,7 +1029,7 @@ a {
   width: 50%;
   max-width: 800px;
   height: auto;
-  display: flex
+  display: flex;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -1046,41 +1046,41 @@ a {
 }
 
 .fbdisablcls a.zsdeptlist {
-  color: #999
+  color: #999;
 }
 
 .fbdisablcls .supemail a {
-  color: #bbb
+  color: #bbb;
 }
 
 .fbdisablcls .supemail span {
-  color: #aaa
+  color: #aaa;
 }
 
 .fbdisablcls .zswidsource {
-  color: #aaa
+  color: #aaa;
 }
 
 .mr1 {
-  margin-right: 1px !important
+  margin-right: 1px !important;
 }
 
 .w100im {
-  width: 100% !important
+  width: 100% !important;
 }
 
 .zsfbbdrtop {
-  border-top: 1px solid #f1f1f1
+  border-top: 1px solid #f1f1f1;
 }
 
 #fileUpload {
   visibility: hidden;
   width: 1px;
-  height: 1px
+  height: 1px;
 }
 
 #zsfeedbackFrame #fileAttach {
-  padding: 30px
+  padding: 30px;
 }
 
 .zsfblcinitial {
@@ -1093,7 +1093,7 @@ a {
   top: 300px;
   width: 500px;
   z-index: 9999;
-  color: #555
+  color: #555;
 }
 
 .fbclsposition {
@@ -1101,7 +1101,7 @@ a {
   top: -40px;
   left: 505px;
   border-radius: 50%;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fbembedclose {
@@ -1109,7 +1109,7 @@ a {
   top: -42px;
   right: -52px;
   border-radius: 50%;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fblchatgreenbtn {
@@ -1120,23 +1120,23 @@ a {
   text-transform: uppercase;
   border-radius: 3px;
   margin-right: 5px;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fblcancbtn {
   color: #5794d7;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fbgreypanel {
   background-color: #f5f5f5;
   color: #333;
   font-size: 15px;
-  padding: 20px 15px
+  padding: 20px 15px;
 }
 
 .chatInitBox {
-  margin: 0 15px
+  margin: 0 15px;
 }
 
 .fbftxtbox {
@@ -1145,11 +1145,11 @@ a {
   padding: 25px 0 7px;
   color: #aaa;
   font-size: 15px;
-  width: 100%
+  width: 100%;
 }
 
 .fbftxtbox:focus {
-  color: #333
+  color: #333;
 }
 
 .fbfchatgreenbtn {
@@ -1160,23 +1160,23 @@ a {
   border-radius: 3px;
   width: auto;
   display: table;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .fbgbtnmaindiv {
   padding: 15px 0;
-  margin-top: 15px
+  margin-top: 15px;
 }
 
 .zsfblchcenter {
   margin: 0;
   padding: 0 0 0 20px;
   list-style: decimal;
-  color: #909090
+  color: #909090;
 }
 
 .zsfblchcenter li {
-  padding: 6px 0
+  padding: 6px 0;
 }
 
 .zsfblchcenter li div {
@@ -1184,7 +1184,7 @@ a {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 445px;
-  padding-left: 5px
+  padding-left: 5px;
 }
 
 .zsfblcpopup {
@@ -1195,22 +1195,22 @@ a {
   left: 0;
   display: none;
   z-index: 9999;
-  top: 0
+  top: 0;
 }
 
 .redtxt {
-  color: #dd4b39 !important
+  color: #dd4b39 !important;
 }
 
 #chatHandler .zsfeedbackclose {
-  padding: 15px 16px 15px 18px
+  padding: 15px 16px 15px 18px;
 }
 
 #liveChatIframe {
   background-color: transparent !important;
   min-height: 555px;
   max-height: 700px;
-  left: 31%
+  left: 31%;
 }
 
 iframe#liveChatIframe.iframemini {
@@ -1222,21 +1222,21 @@ iframe#liveChatIframe.iframemini {
   top: auto !important;
   width: 500px;
   height: 0 !important;
-  position: fixed
+  position: fixed;
 }
 
 .iframemini .minichatpanel {
-  display: none
+  display: none;
 }
 
 ul#chatAutoSuggRes {
   list-style: none;
   margin: 5px 0 0 0;
-  padding: 0
+  padding: 0;
 }
 
 ul#chatAutoSuggRes li {
-  padding: 5px 0
+  padding: 5px 0;
 }
 
 .zsfbcloseweform {
@@ -1245,64 +1245,64 @@ ul#chatAutoSuggRes li {
   left: auto !important;
   right: 0 !important;
   bottom: 0 !important;
-  width: 340px !important
+  width: 340px !important;
 }
 
 #zldchatiframe {
-  height: 500px !important
+  height: 500px !important;
 }
 
 .zscaptcha {
-  background-color: #fff
+  background-color: #fff;
 }
 
 #FeedbackformID {
-  background-color: #fff
+  background-color: #fff;
 }
 
 .zscaptcha textarea.feedtxtarea {
-  height: 154px !important
+  height: 154px !important;
 }
 
 #popupsetup {
-  padding: 0 0 10px 0
+  padding: 0 0 10px 0;
 }
 
 .feedbackPopup_layer_dep #popupsetup {
-  padding: 50px
+  padding: 50px;
 }
 
 #popupsetup .feedtxtarea {
-  overflow: hidden !important
+  overflow: hidden !important;
 }
 
 #popupsetup .zsfbftxtarea {
   height: 147px;
-  overflow: hidden
+  overflow: hidden;
 }
 
 #popupsetup .feedtxtarea #descPlaceHolder {
   max-height: 152px;
-  overflow: auto
+  overflow: auto;
 }
 
 #popupsetup .feedtxtarea:hover #descPlaceHolder {
   max-height: 132px;
-  overflow: auto
+  overflow: auto;
 }
 
 .zsfbminimizecls {
   bottom: 0 !important;
   position: fixed !important;
   right: 22% !important;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 .zsfbgreenplus {
   font-size: 15px;
   margin-right: 5px;
   font-weight: bold;
-  color: #38813a
+  color: #38813a;
 }
 
 #screenshotmdiv, .zsfbattachfiles {
@@ -1310,19 +1310,19 @@ ul#chatAutoSuggRes li {
   border: 1px solid #f1f1f1;
   color: #777;
   padding: 1px 5px;
-  border-radius: 3px
+  border-radius: 3px;
 }
 
 #screenshotTrigger {
-  position: relative
+  position: relative;
 }
 
 .fbchattitle {
-  padding: 13px 0 13px 10px !important
+  padding: 13px 0 13px 10px !important;
 }
 
 .fbchattitle .zsfeedbackclose {
-  padding: 14px 16px 16px 18px !important
+  padding: 14px 16px 16px 18px !important;
 }
 
 .zsfbflfreeze {
@@ -1333,7 +1333,7 @@ ul#chatAutoSuggRes li {
   width: 28%;
   margin: 0 -10px;
   z-index: 1 !important;
-  display: none
+  display: none;
 }
 
 .zsfbflfreezeinner {
@@ -1342,44 +1342,44 @@ ul#chatAutoSuggRes li {
   width: 26.5%;
   z-index: 1 !important;
   display: none;
-  margin: 5px 0 0 -3px
+  margin: 5px 0 0 -3px;
 }
 
 .feedbackPopup_layer_dep .zsfbflfreezeinner {
-  width: 20.3%
+  width: 20.3%;
 }
 
 .feedbackPopup_layer_dep .zsfbflfreeze {
-  width: 21.5%
+  width: 21.5%;
 }
 
 .zsfeedbklpanel:hover .zsfbflfreeze, .zsfeedbklpanel:hover .zsfbflfreezeinner {
-  display: block
+  display: block;
 }
 
 .fbfpoptitle, #advwebForm .fbfsearchbox, #popupsetup .fbfsearchbox, #previewPopup .fbfsearchbox {
   background-color: #eee;
-  color: #555
+  color: #555;
 }
 
 .fbpadimgdiv {
-  display: none
+  display: none;
 }
 
 .fbpad, .fbpad:hover {
   border-bottom: 1px solid #f8f8f8 !important;
   background-color: #fff;
-  padding: 10px 0 10px 10px
+  padding: 10px 0 10px 10px;
 }
 
 #topicsDiv .fbpad, #topicsDiv .fbpad:hover {
   border-bottom: 1px solid #f8f8f8 !important;
   background-color: #fff;
-  padding: 13px 0 13px 10px
+  padding: 13px 0 13px 10px;
 }
 
 .Fdformpreview .fbpad:hover {
-  cursor: default
+  cursor: default;
 }
 
 .zsfbftittxt {
@@ -1388,31 +1388,31 @@ ul#chatAutoSuggRes li {
   border-radius: 3px;
   font-size: 15px;
   padding: 4px 5px 5px;
-  width: 94%
+  width: 94%;
 }
 
 .zsfbfbluebtn {
   padding: 5px 14px !important;
-  margin-left: 5px
+  margin-left: 5px;
 }
 
 .fbfedit {
-  display: none
+  display: none;
 }
 
 #feedbackSubject {
   font-size: 14px;
   color: #333;
-  min-width: 5%
+  min-width: 5%;
 }
 
 .zsfbfmdiv-fbf #feedbackSubject:focus {
-  max-width: 50%
+  max-width: 50%;
 }
 
 .zsfbftxtarea {
   height: 150px;
-  padding: 5px
+  padding: 5px;
 }
 
 .zsfbfenable {
@@ -1420,11 +1420,11 @@ ul#chatAutoSuggRes li {
   height: 14px;
   z-index: 1 !important;
   top: 5px;
-  width: 162px
+  width: 162px;
 }
 
 #ScreenShotimage.zsfbfenable {
-  height: auto !important
+  height: auto !important;
 }
 
 .zs-alertmain {
@@ -1435,7 +1435,7 @@ ul#chatAutoSuggRes li {
   left: 38%;
   background-color: #fff;
   max-width: 43%;
-  line-height: 185%
+  line-height: 185%;
 }
 
 .zs-attenicn {
@@ -1443,7 +1443,7 @@ ul#chatAutoSuggRes li {
   display: inline-block;
   height: 41px;
   margin-right: 20px;
-  width: 41px
+  width: 41px;
 }
 
 #themesContainer .zs-alertmain {
@@ -1452,54 +1452,54 @@ ul#chatAutoSuggRes li {
   top: 85px;
   left: 77px;
   z-index: 9999;
-  background-color: initial
+  background-color: initial;
 }
 
 #themesContainer .zs-alertmain .plgtxt {
-  color: #fff
+  color: #fff;
 }
 
 input#liveDeskStartButton {
-  cursor: pointer !important
+  cursor: pointer !important;
 }
 
 #Feedbackform, .zsfbfbkclr {
   background-color: #fcfcfc;
-  padding: 10px
+  padding: 10px;
 }
 
 .zscategoryselect, .zsformvalue .txtfieldnew, .zsfbfmdiv, .queuesetup .Newbodywh {
   background-color: #fff;
-  text-align: left
+  text-align: left;
 }
 
 #advwebForm .fbfpoptitle {
   padding: 12px 0 12px 20px !important;
-  position: relative
+  position: relative;
 }
 
 #advwebForm .fbfsearchbox {
   margin: -10px -5px 10px -10px;
-  padding: 10px 0 0 6px
+  padding: 10px 0 0 6px;
 }
 
 #advwebForm .zsfeedbklpanel, #advwebForm .zsfeedbkrpanel {
-  display: table-cell
+  display: table-cell;
 }
 
 #zsFAQDispContainer {
   display: none;
   height: 537px;
-  overflow-y: auto
+  overflow-y: auto;
 }
 
 #advwebForm .zsfeedbklpanel {
   min-height: 100px !important;
-  overflow-y: auto
+  overflow-y: auto;
 }
 
 #solutions {
-  padding: 20px
+  padding: 20px;
 }
 
 #solutionTitle {
@@ -1507,29 +1507,29 @@ input#liveDeskStartButton {
   color: #555;
   margin-bottom: 10px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #f5f5f5
+  border-bottom: 1px solid #f5f5f5;
 }
 
 #solutionContent, #topicContent, .zsfbfcontent {
   margin-top: 20px;
   font-size: 14px;
   line-height: 160%;
-  color: #666
+  color: #666;
 }
 
 #topicTitle, .zsfbfsubtitle {
   font-size: 18px;
-  color: #555
+  color: #555;
 }
 
 .zsfbfmdiv-fbf .Fdformpreview {
-  box-shadow: none
+  box-shadow: none;
 }
 
 .zsfbfmdiv-fbf:hover .Fdformpreview {
   box-shadow: 0 0 16px #aaa;
   border: 1px solid #ccc;
-  transition: box-shadow 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s
+  transition: box-shadow 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
 }
 
 .zsfbfmdiv-fbf #widgetTitle {
@@ -1538,20 +1538,20 @@ input#liveDeskStartButton {
   overflow: hidden;
   text-overflow: ellipsis;
   height: 21px;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 .Fdformpreview .widgettitlenew {
   max-width: 91%;
   overflow: hidden;
   text-overflow: ellipsis;
-  height: 21px
+  height: 21px;
 }
 
 .zs-previewwm {
   top: 285px !important;
   position: absolute !important;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 #feedbackDesc {
@@ -1559,12 +1559,12 @@ input#liveDeskStartButton {
   height: 139px;
   width: 490px;
   padding-top: 9px;
-  line-height: 140%
+  line-height: 140%;
 }
 
 #descPlaceHolder, .zsfbfplacehtxt, #feedbackSubject, #feedbackDesc {
   font-size: 15px;
-  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif
+  font-family: 'Brown-Pro', Arial, Helvetica, sans-serif;
 }
 
 .zsfbfplacehtxt {
@@ -1572,35 +1572,35 @@ input#liveDeskStartButton {
   max-width: 475px;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 .Fdformpreview #feedbackSubject, .Fdformpreview #feedbNameTxtField, .Fdformpreview #feedbEmailTxtField {
-  padding: 5px 4px
+  padding: 5px 4px;
 }
 
 .Fdformpreview #feedbackSubject:focus, .Fdformpreview #feedbackDesc, .Fdformpreview #feedbackTitle, #advwebForm #feedbackSubject:focus, #advwebForm .feedtxtarea:focus, #advwebForm .fbtxtnf:focus, #advwebForm .fbfcaptchaDivinput:focus {
   border: 1px solid rgba(121, 187, 238, 0.75) !important;
   box-shadow: 0 0 5px rgba(82, 168, 236, 0.5);
-  outline: 0
+  outline: 0;
 }
 
 #advwebForm .feedtxtarea {
   padding: 0 0 0 5px !important;
   width: 98.5% !important;
-  border: 1px solid #fff
+  border: 1px solid #fff;
 }
 
 #advwebForm .feedbselefield {
-  padding: 0 !important
+  padding: 0 !important;
 }
 
 #advwebForm .zsnocaptcha .feedbselefield {
-  height: 162px
+  height: 162px;
 }
 
 #advwebForm .zscaptcha .feedbselefield {
-  height: 162px
+  height: 162px;
 }
 
 .Fdformpreview #feedbackDesc {
@@ -1609,7 +1609,7 @@ input#liveDeskStartButton {
   padding-top: 2.5px !important;
   padding-left: 4px !important;
   padding-right: 0 !important;
-  -webkit-padding-before: 3px !important
+  -webkit-padding-before: 3px !important;
 }
 
 .Fdformpreview #feedbackSubject, .Fdformpreview #feedbackSubject:focus {
@@ -1619,7 +1619,7 @@ input#liveDeskStartButton {
   -webkit-padding-after: 5px;
   -webkit-padding-before: 5px;
   -webkit-padding-end: 0;
-  outline-style: none
+  outline-style: none;
 }
 
 #previewPopup .Fdformpreview {
@@ -1629,34 +1629,34 @@ input#liveDeskStartButton {
   border: 0;
   width: 950px;
   text-align: left;
-  min-height: 594px
+  min-height: 594px;
 }
 
 #previewPopup .zsfeedbkrpanel {
-  float: right !important
+  float: right !important;
 }
 
 #previewPopup .fbpad {
   padding: 12px 0 12px 10px;
-  cursor: default
+  cursor: default;
 }
 
 #previewPopup .zsfeedbklpanel.zscaptcha {
   min-height: 594px !important;
-  -webkit-margin-after: -7px
+  -webkit-margin-after: -7px;
 }
 
 #previewPopup .zsfeedbklpanel.zsnocaptcha {
   min-height: 444.7px !important;
-  -webkit-margin-after: -3px
+  -webkit-margin-after: -3px;
 }
 
 #previewPopup .zsfeedbkrpanel.zsnocaptcha {
-  min-height: 445px !important
+  min-height: 445px !important;
 }
 
 .zsfbfporelative {
-  position: relative
+  position: relative;
 }
 
 #ScreenShotimage, #Attachmentimage {
@@ -1669,29 +1669,29 @@ input#liveDeskStartButton {
   bottom: 35px;
   left: -20px !important;
   text-align: center;
-  height: auto !important
+  height: auto !important;
 }
 
 .zsfbfporelative {
-  position: relative
+  position: relative;
 }
 
 .zsfbfporelative #ScreenShotimage, .attaimgpreview #Attachmentimage {
-  display: none
+  display: none;
 }
 
 .attaimgpreview:hover #Attachmentimage {
-  left: -31px
+  left: -31px;
 }
 
 #ScreenShotimage img, #attachmentPreview {
   max-height: 150px;
   max-width: 150px;
-  padding: 0 !important
+  padding: 0 !important;
 }
 
 #attachmentarrownew {
-  position: absolute
+  position: absolute;
 }
 
 #zsFAQDispContainer {
@@ -1701,13 +1701,13 @@ input#liveDeskStartButton {
   z-index: 9999 !important;
   background-color: transparent;
   width: 645px;
-  text-align: left
+  text-align: left;
 }
 
 #suggestionClose {
   right: 4px !important;
   top: 1px !important;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 #zsFAQDispContainer #solutions, #zsFAQDispContainer #topics {
@@ -1717,7 +1717,7 @@ input#liveDeskStartButton {
   padding: 20px;
   width: 88%;
   box-shadow: 3px 2px 10px #666;
-  border-radius: 6px
+  border-radius: 6px;
 }
 
 .qcpopuparrowsla {
@@ -1726,14 +1726,14 @@ input#liveDeskStartButton {
   height: 20px;
   background: transparent url('https://css.zohostatic.com/support/app/images/qcrightarrow.a9cf434b46ddc6e869f9.gif') no-repeat;
   top: 34px;
-  _height: 16px\9
+  _height: 16px\9;
 }
 
 #zsFAQDispContainer div.qcpopuparrowsla {
   left: 11px !important;
   transform: rotate(180deg);
   -moz-transform: rotate(180deg);
-  -webkit-transform: rotate(180deg)
+  -webkit-transform: rotate(180deg);
 }
 
 #previewPopup .zsfbfsearchBox:focus {
@@ -1741,15 +1741,15 @@ input#liveDeskStartButton {
   border: 1px solid #ddd;
   background-repeat: no-repeat;
   color: #222;
-  opacity: 1
+  opacity: 1;
 }
 
 .fbfcaptchaDiv:hover #enableDisableCaptcha {
-  display: block
+  display: block;
 }
 
 #feedbackDesc, #feedbNameTxtField, #feedbEmailTxtField, #captchaWord, .zsfbfsearchBox {
-  outline-style: none
+  outline-style: none;
 }
 
 .topicinfo {
@@ -1757,11 +1757,11 @@ input#liveDeskStartButton {
   padding-bottom: 15px;
   margin-bottom: 10px;
   border-bottom: 1px solid #f5f5f5;
-  color: #555
+  color: #555;
 }
 
 .topicinfo span {
-  color: #999
+  color: #999;
 }
 
 #topicReplies {
@@ -1769,29 +1769,29 @@ input#liveDeskStartButton {
   padding-top: 10px;
   font-size: 17px;
   color: #999;
-  padding-bottom: 10px
+  padding-bottom: 10px;
 }
 
 #advwebForm .zsnocaptcha {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-  -webkit-margin-after: 0
+  -webkit-margin-after: 0;
 }
 
 #advwebForm .zsfeedbklpanel.zscaptcha {
   padding: 0 5px 0 10px;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .zscaptcha #fbPopupEmptyEmailErrMsg, .zsnocaptcha #fbPopupEmptyEmailErrMsg {
-  left: -131px
+  left: -131px;
 }
 
 @-moz-document url-prefix() {
   #advwebForm .zsfeedbklpanel.zscaptcha {
     padding: 0 5px 0 10px;
     -webkit-margin-after: -5px;
-    overflow: hidden
+    overflow: hidden;
   }
 }
 
@@ -1801,57 +1801,57 @@ input#liveDeskStartButton {
     padding-bottom: 0 !important;
     -webkit-margin-after: -4px;
     min-height: 421px !important;
-    max-height: 421px !important
+    max-height: 421px !important;
   }
 }
 
 #advwebForm .fbfsearchbox {
-  margin: 0 -6px 10px -10px
+  margin: 0 -6px 10px -10px;
 }
 
 #advwebForm .zsfeedbklpanel.zscaptcha, #advwebForm .zsfeedbkrpanel.zscaptcha {
   min-height: 571px !important;
-  max-height: 560px
+  max-height: 560px;
 }
 
 #advwebForm .zsfeedbkrpanel.zscaptcha {
-  -webkit-margin-after: -8px
+  -webkit-margin-after: -8px;
 }
 
 @media screen and (-ms-high-contrast:none), (-ms-high-contrast:active) {
   #advwebForm .zsfeedbkrpanel.zscaptcha, #advwebForm .zsfeedbklpanel.zscaptcha {
-    min-height: 582.5px !important
+    min-height: 582.5px !important;
   }
 }
 
 @-moz-document url-prefix() {
   #advwebForm .zsfeedbklpanel.zscaptcha, #advwebForm .zsfeedbkrpanel.zscaptcha {
-    min-height: 587px !important
+    min-height: 587px !important;
   }
 }
 
 #advwebForm #feedbackSubject {
-  width: 98%
+  width: 98%;
 }
 
 #advwebForm .redtxt {
   float: left;
   height: 0;
-  margin-left: 7px
+  margin-left: 7px;
 }
 
 #advwebForm #fbInvalidFileFormatErrMsg {
   position: absolute !important;
   top: -29px !important;
   width: 500px;
-  left: 20px
+  left: 20px;
 }
 
 #previewPopup .zsfeedbkrpanel.zscaptcha {
   min-height: 594px !important;
   -webkit-margin-after: -8px;
   position: relative !important;
-  z-index: 0
+  z-index: 0;
 }
 
 .zsfeedbkrpanel #liveChatIframe {
@@ -1859,75 +1859,75 @@ input#liveDeskStartButton {
   top: 85px !important;
   box-shadow: none;
   margin-left: -1px;
-  border: 0 !important
+  border: 0 !important;
 }
 
 .zsfeedbkrpanel .swindow, .zsfeedbkrpanel .chatarea {
-  border: 0 !important
+  border: 0 !important;
 }
 
 .zsnocaptcha #liveChatIframe {
-  min-height: 510px
+  min-height: 510px;
 }
 
 .zsfbfdisbtn, .zsfbfdisbtn:hover {
   background-color: #eee !important;
   color: #999 !important;
-  border: 1px solid #eee !important
+  border: 1px solid #eee !important;
 }
 
 .zspreattscreendiv {
   margin-top: 5px;
-  padding: 10px 0 8px 0
+  padding: 10px 0 8px 0;
 }
 
 .zsfdwordveribdr, .screenshotdivinsetup, .zsfreezediv {
   border: 1px dashed #bbb2b2;
   background-color: #fff;
   position: absolute;
-  border-radius: 3px
+  border-radius: 3px;
 }
 
 .zsfreezediv {
-  background-color: transparent
+  background-color: transparent;
 }
 
 .zsfdwordveribdr {
   width: 256px;
   height: 139px;
   opacity: .6;
-  top: 0
+  top: 0;
 }
 
 .fbLanguage {
-  margin-left: 2px !important
+  margin-left: 2px !important;
 }
 
 .zsfbfnohc .Fdformpreview div.zs-previewwm {
   font-size: 113px !important;
   right: 0 !important;
-  top: 283px !important
+  top: 283px !important;
 }
 
 .zsfbfnewngtxt input {
   border: 0 !important;
-  width: 72px !important
+  width: 72px !important;
 }
 
 .zsfbfoffsetval input {
   border: 0;
   width: 72px;
   margin-right: 5px;
-  outline-style: none
+  outline-style: none;
 }
 
 .zsfbfpad {
   padding: 0 10px 20px 10px !important;
-  height: 122px
+  height: 122px;
 }
 
 . popupsetup .fbLanguage .zsddmaindiv {
-  margin-left: 4px !important
+  margin-left: 4px !important;
 }
 
 #attachmentName #fileName {
@@ -1935,45 +1935,45 @@ input#liveDeskStartButton {
   max-width: 135px !important;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 #attachmentName #attachClose {
-  display: table-cell
+  display: table-cell;
 }
 
 #previewPopupRightPanel #previewPopupFeedbackSubject {
-  width: 98.2% !important
+  width: 98.2% !important;
 }
 
 .zsfbfnohc .Fdformpreview div.zs-previewwm {
   font-size: 113px !important;
   right: 0 !important;
-  top: 283px !important
+  top: 283px !important;
 }
 
 .zsfbfnewngtxt input {
   border: 0 !important;
   width: 72px !important;
-  outline-style: none
+  outline-style: none;
 }
 
 #tabFontColor {
-  outline-style: none
+  outline-style: none;
 }
 
 .zsfbfoffsetval input {
   border: 0;
   width: 72px;
-  margin-right: 5px
+  margin-right: 5px;
 }
 
 .zsfbfpad {
-  padding: 0 10px 20px 10px !important
+  padding: 0 10px 20px 10px !important;
 }
 
 . popupsetup .fbLanguage .zsddmaindiv {
-  margin-left: 4px !important
+  margin-left: 4px !important;
 }
 
 #attachmentName #fileName {
@@ -1981,42 +1981,42 @@ input#liveDeskStartButton {
   max-width: 135px !important;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 #attachmentName #attachClose {
-  display: table-cell
+  display: table-cell;
 }
 
 .zsfbfscreencls {
   width: 20;
   height: 20;
-  float: right
+  float: right;
 }
 
 .zsfbfnohc .Fdformpreview div.zs-previewwm {
   font-size: 113px !important;
   right: 0 !important;
-  top: 283px !important
+  top: 283px !important;
 }
 
 .zsfbfnewngtxt input {
   border: 0 !important;
-  width: 72px !important
+  width: 72px !important;
 }
 
 .zsfbfoffsetval input {
   border: 0;
   width: 72px;
-  margin-right: 5px
+  margin-right: 5px;
 }
 
 .zsfbfpad {
-  padding: 0 10px 20px 10px !important
+  padding: 0 10px 20px 10px !important;
 }
 
 . popupsetup .fbLanguage .zsddmaindiv {
-  margin-left: 4px !important
+  margin-left: 4px !important;
 }
 
 #attachmentName #fileName {
@@ -2024,74 +2024,74 @@ input#liveDeskStartButton {
   max-width: 135px !important;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 #attachmentName #attachClose {
-  display: table-cell
+  display: table-cell;
 }
 
 .zsfbfscreencls {
   width: 20;
   height: 20;
-  float: right
+  float: right;
 }
 
 #previewPopup.zsfbfnohc {
   left: 29% !important;
-  width: 40.7%
+  width: 40.7%;
 }
 
 .zsfbfnohc .Fdformpreview div.zs-previewwm {
   font-size: 113px !important;
   right: 0 !important;
-  top: 283px !important
+  top: 283px !important;
 }
 
 .zsfbfnewngtxt {
   width: 70% !important;
-  margin: 3px 1px 0 0
+  margin: 3px 1px 0 0;
 }
 
 .zsfbfnewngtxt input {
   border: 0 !important;
   width: 52px !important;
-  margin-right: 0 !important
+  margin-right: 0 !important;
 }
 
 #feedbackFormBgColorErrMsg {
   width: 200px !important;
-  clear: both
+  clear: both;
 }
 
 .zsfbfoffsetlab {
   width: 45px !important;
   padding-right: 10px !important;
-  margin-left: 7px !important
+  margin-left: 7px !important;
 }
 
 .zsfbfoffsetval {
   width: 94% !important;
   margin-top: 20px;
-  padding: 5px 0 !important
+  padding: 5px 0 !important;
 }
 
 .zsfbfoffsetval input {
   border: 0;
   width: 72px;
-  margin: 0 5px
+  margin: 0 5px;
 }
 
 .zsfbfpad {
-  padding: 0 10px 20px 10px !important
+  padding: 0 10px 20px 10px !important;
 }
 
 .zsfbfmdiv-fbf .w226 {
-  width: 223px !important
+  width: 223px !important;
 }
 
 . popupsetup .fbLanguage .zsddmaindiv {
-  margin-left: 4px !important
+  margin-left: 4px !important;
 }
 
 #attachmentName #fileName {
@@ -2099,12 +2099,12 @@ input#liveDeskStartButton {
   max-width: 110px !important;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 #attachmentName #attachClose {
   display: table-cell;
-  color: #00a3fe
+  color: #00a3fe;
 }
 
 .zsfbfscreencls {
@@ -2115,23 +2115,23 @@ input#liveDeskStartButton {
   z-index: 300000;
   display: none;
   text-decoration: none;
-  margin: 2px 4px 0 0
+  margin: 2px 4px 0 0;
 }
 
 .zsfbfscreencls i {
   background-position: -149px -340px;
   width: 11px;
   height: 11px;
-  display: inline-block
+  display: inline-block;
 }
 
 #tabPosDropdownList {
-  top: 34px !important
+  top: 34px !important;
 }
 
 #screenshotPreviewContainer, #attachmentPreviewContainer {
   margin-top: 8px;
-  position: relative
+  position: relative;
 }
 
 #feedbackTitle {
@@ -2139,99 +2139,99 @@ input#liveDeskStartButton {
   top: -4px;
   padding: 6px 5px 4px;
   -webkit-padding-before: 5px !important;
-  -webkit-padding-after: 5px !important
+  -webkit-padding-after: 5px !important;
 }
 
 #feedbackFormTabTitleErrMsg {
-  margin-bottom: -18px
+  margin-bottom: -18px;
 }
 
 #feedbackFormOffsetErrMsg {
   margin-left: -54px;
   width: 190px;
-  clear: both
+  clear: both;
 }
 
 #fbPopupEmptySubjErrMsg {
-  left: -333px
+  left: -333px;
 }
 
 .zscaptcha #fbPopupEmptySubjErrMsg, .zsnocaptcha #fbPopupEmptySubjErrMsg {
-  left: -412px
+  left: -412px;
 }
 
 #fbPopupEmptyNameErrMsg {
-  left: -68px
+  left: -68px;
 }
 
 .zscaptcha #fbPopupEmptyNameErrMsg, .zsnocaptcha #fbPopupEmptyNameErrMsg {
-  left: -128px
+  left: -128px;
 }
 
 #fbPopupEmptyEmailErrMsg {
-  left: -71px
+  left: -71px;
 }
 
 .zscaptcha #fbPopupEmptyCaptchaErrMsg {
   left: 7px;
   white-space: nowrap;
-  float: left !important
+  float: left !important;
 }
 
 @-moz-document url-prefix() {
   .zscaptcha #fbPopupEmptySubjErrMsg, .zsnocaptcha #fbPopupEmptySubjErrMsg {
-    left: -402px
+    left: -402px;
   }
   .zscaptcha #fbPopupEmptyEmailErrMsg, .zsnocaptcha #fbPopupEmptyEmailErrMsg {
-    left: -120px
+    left: -120px;
   }
 }
 
 #fbPopupEmptyCaptchaErrMsg {
-  left: -102px
+  left: -102px;
 }
 
 #enableDisableCaptcha {
   position: absolute !important;
-  top: 17px !important
+  top: 17px !important;
 }
 
 .zsfbfcaptdivnew {
   position: absolute;
   top: 58px;
   left: 100px;
-  width: 170px
+  width: 170px;
 }
 
 .zsfbfcaptdivnew .on-offbtndiv {
   position: static !important;
   left: 10px;
   right: auto;
-  float: left
+  float: left;
 }
 
 #previewPopupLeftPanel #zsFAQDispContainer {
   left: 40% !important;
-  z-index: 1 !important
+  z-index: 1 !important;
 }
 
 #previewPopupLeftPanel #zsFAQDispContainer #suggestionClose {
   top: -10px;
-  right: -10px
+  right: -10px;
 }
 
 #previewPopupLeftPanel #zsFAQDispContainer #solutionContent a {
-  color: #598fde !important
+  color: #598fde !important;
 }
 
 #successMessageInfoLabel, .zsfbfhelpmsg {
   color: #9b9392 !important;
   font-size: 13px !important;
-  padding-top: 5px
+  padding-top: 5px;
 }
 
 #successMessageValidationLabel {
-  padding-top: 5px
+  padding-top: 5px;
 }
 
 .zsfbfzoomimg {
@@ -2244,49 +2244,49 @@ input#liveDeskStartButton {
   margin-top: 20px;
   z-index: 9999;
   top: 10%;
-  right: 20%
+  right: 20%;
 }
 
 .zsfbfzoomimg #previewImageZoom {
   width: 827px;
   height: 542px;
   position: absolute;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 #zsCloseImageZoom {
   position: absolute;
   right: -12px;
   top: -12px;
-  z-index: 9999 !important
+  z-index: 9999 !important;
 }
 
 .zsfbffontclrcls {
   width: 7% !important;
   padding-right: 6px !important;
-  margin-top: 19px !important
+  margin-top: 19px !important;
 }
 
 .w16per {
-  width: 16% !important
+  width: 16% !important;
 }
 
 .w72px {
-  width: 72px !important
+  width: 72px !important;
 }
 
 .w106px {
-  width: 106px !important
+  width: 106px !important;
 }
 
 .zsfbfposilabel {
   margin-top: 19px !important;
-  width: 45px !important
+  width: 45px !important;
 }
 
 .zsfbfposivalue {
   margin: 20px 0 0 0 !important;
-  width: 17%
+  width: 17%;
 }
 
 #advwebForm .cpsearchicn, #popupsetup .cpsearchicn, #previewPopup .cpsearchicn {
@@ -2301,13 +2301,13 @@ input#liveDeskStartButton {
   font-size: 15px;
   box-shadow: none;
   opacity: .4;
-  outline: 0
+  outline: 0;
 }
 
 #advwebForm .cpsearchicn:focus, #popupsetup .cpsearchicn:focus, #previewPopup .cpsearchicn:focus {
   background-color: #fff;
   opacity: 1;
-  box-shadow: none
+  box-shadow: none;
 }
 
 .zsfbcaptcha {
@@ -2315,7 +2315,7 @@ input#liveDeskStartButton {
   height: 68px;
   width: 136px;
   display: inline-block;
-  margin: 13px 0 0 30px
+  margin: 13px 0 0 30px;
 }
 
 .freezeLayer {
@@ -2331,58 +2331,58 @@ input#liveDeskStartButton {
   filter: Alpha(Opacity=70);
   -moz-opacity: .7;
   opacity: .7;
-  z-index: 20
+  z-index: 20;
 }
 
 .zs-newokbtn {
   border: 1px solid #97c769;
   background-color: #97c769;
-  color: #fff
+  color: #fff;
 }
 
 .zs-newcancelbtn {
   border: 1px solid #f1f1f1;
   background-color: #fcfcfc;
-  color: #555
+  color: #555;
 }
 
 .zs-newokbtn, .zs-newcancelbtn {
   padding: 5px 15px;
   cursor: pointer;
   border-radius: 3px;
-  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif
+  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif;
 }
 
 #feedbackSubmitLoading {
   position: absolute;
   top: 50%;
-  left: 50%
+  left: 50%;
 }
 
 #zsfeedbackwidgetdiv #advwebForm {
   webkit-overflow: auto !important;
-  -ms-overflow-style: none !important
+  -ms-overflow-style: none !important;
 }
 
 #previewPopup #previewPopupLeftPanel .fbpad {
-  cursor: pointer
+  cursor: pointer;
 }
 
 #advwebForm.fbfchatEnable {
   left: 30% !important;
-  width: 43.2% !important
+  width: 43.2% !important;
 }
 
 #advwebForm.fbfchatEnable .zsfeedbkrpanel {
-  width: 99.6% !important
+  width: 99.6% !important;
 }
 
 #popupsetup .fbpad a, #popupsetup .fbpad {
-  cursor: default !important
+  cursor: default !important;
 }
 
 .w84 {
-  width: 84%
+  width: 84%;
 }
 
 .zsfbcloseweform .zstitlemini {
@@ -2390,87 +2390,87 @@ input#liveDeskStartButton {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 65% !important;
-  float: left
+  float: left;
 }
 
 .zsfbcloseweform .zsfeedbkrpanel {
-  width: 315px
+  width: 315px;
 }
 
 #popupsetup .zsfeedbklpanel .bdrbtm2new a {
-  cursor: default
+  cursor: default;
 }
 
 .fbfcaptchwholediv:hover .onoffswitch-big .onoffswitch-label, #enableDisableAttachment:hover .onoffswitch-big .onoffswitch-label, #enableDisableScreenShot:hover .onoffswitch-big .onoffswitch-label, #enableDisableChat:hover .onoffswitch-big .onoffswitch-label {
   box-shadow: 0 0 7px #777;
-  transition: box-shadow 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s
+  transition: box-shadow 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
 }
 
 #suggestionsDiv {
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .zscaptcha #solutionsDiv {
   margin-top: 10px;
   max-height: 450px;
-  overflow: auto
+  overflow: auto;
 }
 
 .zsnocaptcha #solutionsDiv {
   margin-top: 10px;
   max-height: 325px;
-  overflow: auto
+  overflow: auto;
 }
 
 #suggestionsDiv span {
-  padding-bottom: 7px
+  padding-bottom: 7px;
 }
 
 #suggestionsDiv span.headerselect, #previewPopup #solutionsHeader span.headerselect, #popupsetup span.headerselect {
   padding-bottom: 5px;
-  border-bottom: 2px solid #00a3fe
+  border-bottom: 2px solid #00a3fe;
 }
 
 .zsfbfsperater {
   padding-right: 15px;
   margin-right: 15px;
-  border-right: 1px solid #eee
+  border-right: 1px solid #eee;
 }
 
 .w280 {
-  width: 280px
+  width: 280px;
 }
 
 .zsfbhcsubject {
   text-overflow: ellipsis;
   overflow: hidden;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 .zsnocaptcha #topicsDiv {
   max-height: 319px;
   overflow-y: auto;
-  margin-top: 8px
+  margin-top: 8px;
 }
 
 .zscaptcha #topicsDiv {
   max-height: 450px;
   overflow-y: auto;
-  margin-top: 10px
+  margin-top: 10px;
 }
 
 .zsdeptlistdisc {
   color: #888 !important;
-  cursor: default !important
+  cursor: default !important;
 }
 
 #forumsHeader {
-  margin-left: 10px
+  margin-left: 10px;
 }
 
 #enableDisableChat {
   top: 13px !important;
-  left: -183px !important
+  left: -183px !important;
 }
 
 #advwebForm .zstitlemini {
@@ -2479,146 +2479,146 @@ input#liveDeskStartButton {
   overflow: hidden;
   text-overflow: ellipsis;
   height: 23px;
-  line-height: initial
+  line-height: initial;
 }
 
 .fbpad.w280 {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  width: 92% !important
+  width: 92% !important;
 }
 
 .empty-txt {
   font: 16px 'Brown-Pro', Arial, Helvetica, sans-serif;
-  color: #555
+  color: #555;
 }
 
 .mt60 {
-  margin-top: 60px
+  margin-top: 60px;
 }
 
 a:hover {
-  text-decoration: none !important
+  text-decoration: none !important;
 }
 
 #advwebForm #zsfeedbkrpanel.zsnocaptcha .feedbackformmdiv {
-  min-height: 260px
+  min-height: 260px;
 }
 
 @-moz-document url-prefix() {
   #advwebForm #zsfeedbkrpanel.zsnocaptcha .feedbackformmdiv {
-    min-height: 262px
+    min-height: 262px;
   }
 }
 
 .zsfbfmdiv-fbf .zscaptcha {
-  height: auto !important
+  height: auto !important;
 }
 
 .curpointer {
-  cursor: pointer
+  cursor: pointer;
 }
 
 .mr10 {
-  margin-right: 10px
+  margin-right: 10px;
 }
 
 .mr5 {
-  margin-right: 5px
+  margin-right: 5px;
 }
 
 .posrel {
-  position: relative
+  position: relative;
 }
 
 #popupsetup .zsaddsoliinnerdiv {
-  float: right !important
+  float: right !important;
 }
 
 .zs-newdropdown div:hover {
-  background-color: #fff !important
+  background-color: #fff !important;
 }
 
 .p5imp {
-  padding: 5px !important
+  padding: 5px !important;
 }
 
 .posstaticimp {
-  position: static !important
+  position: static !important;
 }
 
 .opa1imp {
-  opacity: 1 !important
+  opacity: 1 !important;
 }
 
 .w21px {
-  width: 21px !important
+  width: 21px !important;
 }
 
 .disnone {
-  display: none
+  display: none;
 }
 
 .disblock {
-  display: block
+  display: block;
 }
 
 #zsFAQDispContainer #solutions {
   max-height: 350px;
   overflow-y: auto;
-  text-align: left
+  text-align: left;
 }
 
 .curdefault {
-  cursor: default !important
+  cursor: default !important;
 }
 
 .curauto {
-  cursor: auto !important
+  cursor: auto !important;
 }
 
 .curpointer {
-  cursor: pointer
+  cursor: pointer;
 }
 
 #feedbacklabel {
-  z-index: 10
+  z-index: 10;
 }
 
 .bdr0 {
-  border: 0 !important
+  border: 0 !important;
 }
 
 .opa03 {
-  opacity: .3
+  opacity: .3;
 }
 
 #enableDisableScreenShot {
   display: block;
   left: 130px;
-  width: 173px
+  width: 173px;
 }
 
 .vishidden {
-  visibility: hidden
+  visibility: hidden;
 }
 
 #previewPopup .zsfeedbkrpanel.zsnocaptcha .zsfbbdrtop {
-  margin-top: 19.3px
+  margin-top: 19.3px;
 }
 
 #advwebForm.zsfbcloseweform .zsfeedbkrpanel {
-  width: 100% !important
+  width: 100% !important;
 }
 
 #advwebForm.zsfbcloseweform .zstitlemini {
-  width: 60% !important
+  width: 60% !important;
 }
 
 .Fdformpreview #captchaImage {
   width: 136px !important;
-  height: 70px !important
+  height: 70px !important;
 }
 
 .zs-alertmain {
@@ -2627,30 +2627,30 @@ a:hover {
   position: fixed;
   top: 100px;
   left: 35%;
-  background-color: #fff
+  background-color: #fff;
 }
 
 .zs-newokbtn {
   border: 1px solid #97c769;
   background-color: #97c769;
-  color: #fff
+  color: #fff;
 }
 
 .zs-newcancelbtn {
   border: 1px solid #f1f1f1;
   background-color: #fcfcfc;
-  color: #aaa
+  color: #aaa;
 }
 
 .zs-newokbtn, .zs-newcancelbtn {
   padding: 5px 15px;
   cursor: pointer;
   border-radius: 3px;
-  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif
+  font: 13px 'Brown-Pro', Arial, Helvetica, sans-serif;
 }
 
 .zs-imgwidth {
-  width: 70px
+  width: 70px;
 }
 
 #themesContainer .zs-alertmain {
@@ -2659,11 +2659,11 @@ a:hover {
   top: 85px;
   left: 77px;
   z-index: 9999;
-  background-color: initial
+  background-color: initial;
 }
 
 #themesContainer .zs-alertmain .plgtxt {
-  color: #fff
+  color: #fff;
 }
 
 .warn-ico-css {
@@ -2674,43 +2674,43 @@ a:hover {
   height: 60px;
   color: #e18604;
   font-size: 50px;
-  margin-bottom: 10px
+  margin-bottom: 10px;
 }
 
 .zsfeedbackclose i {
-  margin-top: 1px
+  margin-top: 1px;
 }
 
 @-moz-document url-prefix() {
   #previewPopup .zsfeedbklpanel.zscaptcha {
-    min-height: 593px !important
+    min-height: 593px !important;
   }
 }
 
 @-moz-document url-prefix() {
   #previewPopup .zsfeedbkrpanel.zscaptcha {
-    min-height: 603px !important
+    min-height: 603px !important;
   }
 }
 
 @-moz-document url-prefix() {
   #previewPopup .zsfeedbklpanel.zsnocaptcha {
-    min-height: 449.7px !important
+    min-height: 449.7px !important;
   }
 }
 
 @-moz-document url-prefix() {
   .zspopembedselect i {
-    top: -8px
+    top: -8px;
   }
 }
 
 .zsfbfdisbtn, .muledptbtn {
-  outline: 0
+  outline: 0;
 }
 
 #screenShotRemoveAnchor {
-  color: #00a3fe
+  color: #00a3fe;
 }
 
 .blue-btn {
@@ -2726,232 +2726,232 @@ a:hover {
   min-width: 90px;
   border-radius: 2px;
   -webkit-box-shadow: 0 2px 3px 0 rgba(0, 163, 254, 0.2);
-  box-shadow: 0 2px 3px 0 rgba(0, 163, 254, 0.2)
+  box-shadow: 0 2px 3px 0 rgba(0, 163, 254, 0.2);
 }
 
 .blue-btn:hover, .blue-bdr-btn:hover, .red-bdr-btn:hover {
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2)
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 .blue-btn:hover {
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 163, 254, 0.4);
-  box-shadow: 0 3px 3px 0 rgba(0, 163, 254, 0.4)
+  box-shadow: 0 3px 3px 0 rgba(0, 163, 254, 0.4);
 }
 
 #enableDisableScreenShot i.zscameraicn, #enableDisableAttachment i.zsnewattachicn, #enableDisableChat i.statusonline {
   position: relative;
-  top: -3px
+  top: -3px;
 }
 
 #popupsetup #captchaWord {
-  padding: 5px 4px !important
+  padding: 5px 4px !important;
 }
 
 .zsnametxtbox, .zsemailtxtbox, .zscaptchatxtbox, #previewCaptchaDiv {
-  width: 46%
+  width: 46%;
 }
 
 .zsnametxtbox .fbtxtnf, .zscaptchatxtbox #previewCaptchaWord {
-  width: 99.3% !important
+  width: 99.3% !important;
 }
 
 .zsemailtxtbox .fbtxtnf {
-  width: 97% !important
+  width: 97% !important;
 }
 
 #previewCaptchaDiv .fbfcaptchaDivimg {
-  width: 99%
+  width: 99%;
 }
 
 @media all and (-ms-high-contrast:none), (-ms-high-contrast:active) {
   .zsemailtxtbox .fbtxtnf {
-    width: 97.5% !important
+    width: 97.5% !important;
   }
   .zsfeedbkrpanel {
-    width: 65%
+    width: 65%;
   }
   .zsfbflfreeze {
-    width: 21.5%
+    width: 21.5%;
   }
   .zsfbflfreezeinner {
-    width: 20%
+    width: 20%;
   }
   .zsfbfmdiv-fbf .w226 {
-    width: 220px !important
+    width: 220px !important;
   }
   #zsFAQDispContainer {
     left: 38%;
-    width: 600px
+    width: 600px;
   }
   #advwebForm .zsfeedbkrpanel {
-    width: 65.11%
+    width: 65.11%;
   }
   #advwebForm .ml42 {
-    margin-left: 25px
+    margin-left: 25px;
   }
   #advwebForm .w226 {
-    width: 243px !important
+    width: 243px !important;
   }
   #advwebForm .zscaptcha.zsfeedbkrpanel, #advwebForm .zscaptcha.zsfeedbklpanel {
-    height: 575px !important
+    height: 575px !important;
   }
   #previewPopup .zsfeedbklpanel.zsnocaptcha {
-    min-height: 442.7px !important
+    min-height: 442.7px !important;
   }
   #previewPopup .zsfeedbkrpanel.zsnocaptcha {
-    min-height: 453px !important
+    min-height: 453px !important;
   }
   .zsfdwordveribdr {
     width: 232px;
     height: 139px;
     opacity: .6;
-    top: 0
+    top: 0;
   }
   .zsfbfbkclr .zsfbfposivalue {
-    width: 14.6% !important
+    width: 14.6% !important;
   }
   .zsfbfbkclr .zsfbfposivalue #tabposSelectList {
-    width: 80% !important
+    width: 80% !important;
   }
   #tabPosDropdownList {
     max-width: 57%;
-    top: 33px
+    top: 33px;
   }
   .fbLanguage .zs-newdropdown {
     min-width: 78.3% !important;
-    width: auto !important
+    width: auto !important;
   }
   .fbdepartment .zs-newdropdown {
-    min-width: 83.2% !important
+    min-width: 83.2% !important;
   }
   #previewPopup .zsfeedbkrpanel.zscaptcha {
-    min-height: 600px !important
+    min-height: 600px !important;
   }
   #previewPopup .zsfeedbklpanel.zscaptcha {
-    min-height: 589.5px !important
+    min-height: 589.5px !important;
   }
   #previewPopup .zsfeedbackclose {
-    right: 0
+    right: 0;
   }
   #zsFAQDispContainer {
-    width: 600px !important
+    width: 600px !important;
   }
   #zsFAQDispContainer #solutions {
-    width: 88%
+    width: 88%;
   }
   #popupsetup .Fdformpreview .zsfeedbkrpanel {
-    width: 65.05%
+    width: 65.05%;
   }
   .w100 {
-    width: 100% !important
+    width: 100% !important;
   }
   #zsFAQDispContainer {
-    text-align: left
+    text-align: left;
   }
 }
 
 #advwebForm .w48 {
-  width: 46.5% !important
+  width: 46.5% !important;
 }
 
 #langSelectList, #tabposSelectList, #depSelectList {
-  float: none !important
+  float: none !important;
 }
 
 #langDropdownList, #deptDropdownList, #tabPosDropdownList {
   padding: 0 !important;
-  text-align: left
+  text-align: left;
 }
 
 #langDropdownList {
-  width: 100% !important
+  width: 100% !important;
 }
 
 #deptDropdownList {
   width: 95% !important;
-  min-width: 95% !important
+  min-width: 95% !important;
 }
 
 #tabPosDropdownList {
   width: 70% !important;
   min-width: 70% !important;
-  z-index: 0 !important
+  z-index: 0 !important;
 }
 
 #langDropdownList div, #tabPosDropdownList div, #deptDropdownList div {
   margin: 0 10px;
   white-space: nowrap;
   text-overflow: ellipsis;
-  overflow: auto
+  overflow: auto;
 }
 
 .zsfbformhead {
-  text-align: left
+  text-align: left;
 }
 
 .pl5 {
-  padding-left: 5px
+  padding-left: 5px;
 }
 
 .ml3 {
-  margin-left: 3px
+  margin-left: 3px;
 }
 
 @media all and (-ms-high-contrast:none) {
   .zspopembedselect i {
     position: relative;
-    top: -8px
+    top: -8px;
   }
 }
 
 @media all and (-ms-high-contrast:none) {
   #tabPosDropdownList {
     width: 80% !important;
-    min-width: 80% !important
+    min-width: 80% !important;
   }
   *::-ms-backdrop, #tabPosDropdownList {
     width: 80% !important;
-    min-width: 80% !important
+    min-width: 80% !important;
   }
 }
 
 @media all and (-ms-high-contrast:none) {
   {}
   *::-ms-backdrop, .zsnonameemail {
-    height: 33px
+    height: 33px;
   }
 }
 
 @media all and (-ms-high-contrast:none) {
   .zsfeedbkrpanel #liveChatIframe {
-    width: 38.8% !important
+    width: 38.8% !important;
   }
   *::-ms-backdrop, .zsfeedbkrpanel #liveChatIframe {
-    width: 38.8% !important
+    width: 38.8% !important;
   }
 }
 
 @media all and (-ms-high-contrast:none) {
   #advwebForm.fbfchatEnable {
-    width: 38.9% !important
+    width: 38.9% !important;
   }
   *::-ms-backdrop, #advwebForm.fbfchatEnable {
-    width: 38.9% !important
+    width: 38.9% !important;
   }
 }
 
 .feedbackPopup_layer_dep .zsfbflfreezeinner {
-  width: 28.8% !important
+  width: 28.8% !important;
 }
 
 .feedbackPopup_layer_dep .zsfbflfreeze {
-  width: 30.5%
+  width: 30.5%;
 }
 
 .feedbackPopup_layer_dep #previewPopup.zsfbfnohc {
   width: auto !important;
-  left: 23% !important
+  left: 23% !important;
 }
 
 .feedbackPopup_layer_dep #previewPopup.zsfbfnohc .zsfeedbkrpanel {
@@ -2959,7 +2959,7 @@ a:hover {
 }
 
 .feedbackPopup_layer_dep #previewPopup.zsfbfnohc .zs-previewwm {
-  right: 84px !important
+  right: 84px !important;
 }
 
 .febscreensctxt {
@@ -2969,31 +2969,31 @@ a:hover {
   width: 63%;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 .zsdeptdroplist {
   position: relative;
   max-height: 282px;
   margin: 0 !important;
-  padding: 0 !important
+  padding: 0 !important;
 }
 
 #articlesWithFeedback .icon-Deletedticket-new {
   word-wrap: initial;
-  margin-right: 10px
+  margin-right: 10px;
 }
 
 #zsfeedbackwidgetdiv * {
   -webkit-box-sizing: initial;
   -moz-box-sizing: initial;
-  box-sizing: initial
+  box-sizing: initial;
 }
 
 #attachmentPreviewContainer {
-  margin-top: 8px
+  margin-top: 8px;
 }
 
 #zsfeedbkrpanel.zsnocaptcha .zsfbbdrtop {
-  margin-top: 20px
+  margin-top: 20px;
 }
