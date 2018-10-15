@@ -3011,15 +3011,20 @@ a:hover {
   margin-top: 20px;
 }
 
-#zsUserNameEmailContainer {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+#advwebForm .fleft.w48 {
+  width: 100% !important;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
-#zsUserNameEmailContainer > .fleft.w48,
-#zsUserNameEmailContainer > .fleft.w48.ml30 {
-  margin-left: 0;
-  min-width: calc(280px / 2);
-  margin-bottom: 20px;
+.fleft.w48 + .fleft.w48 {
+    margin-top: 20px;
+}
+
+input#feedbackSubject,
+textarea#feedbackDescription,
+input#feedbNameTxtField,
+input#feedbEmailTxtField {
+  box-sizing: border-box;
+  width: 100% !important;
 }
