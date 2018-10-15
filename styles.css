@@ -1,3 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 @charset "utf-8";
 
 /* FONT-FACE IMPORTS
@@ -17,6 +24,12 @@
  * Lineto.com, 2017
  */
 
+ html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 /* Complete */
 @font-face {
@@ -2996,4 +3009,17 @@ a:hover {
 
 #zsfeedbkrpanel.zsnocaptcha .zsfbbdrtop {
   margin-top: 20px;
+}
+
+#zsUserNameEmailContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#zsUserNameEmailContainer > .fleft.w48,
+#zsUserNameEmailContainer > .fleft.w48.ml30 {
+  margin-left: 0;
+  min-width: calc(280px / 2);
+  margin-bottom: 20px;
 }
