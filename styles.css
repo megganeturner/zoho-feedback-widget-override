@@ -3011,6 +3011,8 @@ a:hover {
   margin-top: 20px;
 }
 
+/* MT overrides */
+
 #advwebForm .fleft.w48 {
   width: 100% !important;
   margin-bottom: 0;
@@ -3018,7 +3020,7 @@ a:hover {
 }
 
 .fleft.w48 + .fleft.w48 {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 input#feedbackSubject,
@@ -3029,6 +3031,19 @@ input#feedbEmailTxtField {
   width: 100% !important;
 }
 
+textarea#feedbackDescription {
+  width: 100% !important;
+  height: 100%;
+}
+
 span#popupsetupMinimise {
-    display: none;
+  display: none;
+}
+
+.zsfeedbkrpanel {
+  border-left: none;
+}
+
+#popupsetupClose {
+  right: 0.5px !important;
 }
