@@ -3028,3 +3028,7 @@ input#feedbEmailTxtField {
   box-sizing: border-box;
   width: 100% !important;
 }
+
+span#popupsetupMinimise {
+    display: none;
+}
