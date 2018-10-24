@@ -3047,3 +3047,12 @@ span#popupsetupMinimise {
 #popupsetupClose {
   right: 0.5px !important;
 }
+
+.screenshotdiv {
+  height: auto;
+  top: -164px;
+}
+
+#advwebForm .redtxt {
+  font-size: 13px;
+}
