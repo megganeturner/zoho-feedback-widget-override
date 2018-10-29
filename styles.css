@@ -3056,3 +3056,9 @@ span#popupsetupMinimise {
 #advwebForm .redtxt {
   font-size: 13px;
 }
+
+@media (max-width: 650px) {
+  #feedbacklabel {
+    display: none;
+  }
+}
