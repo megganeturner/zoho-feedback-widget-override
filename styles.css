@@ -3044,17 +3044,135 @@ span#popupsetupMinimise {
   border-left: none;
 }
 
+#advwebForm .zsnocaptcha {
+  padding: calc(12px * 1.5) !important;
+}
+
 #popupsetupClose {
   right: 0.5px !important;
 }
 
 .screenshotdiv {
   height: auto;
-  top: -164px;
+  top: -138px;
+  left: -6px;
 }
 
 #advwebForm .redtxt {
   font-size: 13px;
+}
+
+#feedbacklabelspan {
+  font-size: 1.2rem;
+  border-radius: 3px 3px 0 0;
+}
+
+#zsfeedbkrpanel {
+  border-radius: 3px;
+  overflow: hidden;
+  padding: calc(12px * 1.5) !important;
+}
+
+#advwebForm #popupTitle {
+  background-color: white;
+  border-bottom: 1px solid hsla(0, 0%, 95%, 1);
+  padding: 0 0 12px 0 !important;
+  font-size: 1.6rem;
+  color: hsla(0, 0%, 10%, 1);
+  font-weight: 700;
+}
+
+#popupsetupClose {
+  right: -12px !important;
+  top: -10px;
+  opacity: 1;
+}
+
+#popupsetupClose:hover {
+  background-color: transparent;
+}
+
+.zsfeedbackclose:hover .zsfbcloseicn {
+  background-position: -150px -417px !important;
+}
+
+.feedbackformmdiv {
+  padding: 0;
+}
+
+.zsfbbdrtop {
+  border-top: none;
+}
+
+#screenShotIcon {
+  border: 1px solid hsla(0, 0%, 95%, 1);
+  border-radius: 30px;
+  padding: 10px 25px;
+}
+
+#screenShotIcon:after {
+  content: 'Add Screenshot';
+  font-size: 1.2rem;
+  padding-left: 7px;
+  font-weight: 700;
+}
+
+#feedbPopupSbmtBtn {
+  background-color: #1B9883;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 25px;
+  font-weight: 700;
+}
+
+.zscameraicn {
+  height: 21px !important;
+}
+
+#fbssokcancel {
+  padding: 12px;
+  border: 1px solid hsla(0, 0%, 90%, 1);
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+#zsfbok {
+  background-color: #1B9883;
+  border-radius: 30px;
+  padding: 10px 25px;
+}
+
+#zsfbok:after {
+  content: 'Done';
+  color: white;
+  font-weight: 700;
+}
+
+#zsfbssok {
+  background-image: none;
+  display: none !important;
+}
+
+#zsfbclose {
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px 25px;
+  border: 1px solid hsla(0, 0%, 90%, 1);
+  margin-left: 12px;
+}
+
+#zsfbclose:after {
+  content: 'Cancel';
+  font-weight: 700;
+}
+
+#zsfbcloseicn {
+  display: none !important;
+  background-image: none;
+}
+
+.screenshotrow:hover > a {
+  color: hsla(170, 70%, 45%, 1);
 }
 
 @media (max-width: 650px) {
